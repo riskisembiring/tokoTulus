@@ -1,0 +1,8 @@
+/* src/components/ProductItem.css */
+.product-item img {
+    width: 100%;
+    max-width: 200px; /* Atur ukuran maksimum sesuai kebutuhan */
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
